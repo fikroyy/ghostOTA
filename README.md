@@ -1,2 +1,2 @@
 # ghostOTA
-ghostOTA is https based for ESP32 Over the Air (OTA) Update
+ghostOTA is ESP32 Over the Air (OTA) update system via github
